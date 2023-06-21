@@ -33,29 +33,33 @@ nav li {
 
 main {
     width: 90%;
+    margin: 0 auto;
 }
+
 p {
     overflow:hidden;
 }
 
-div {
-    margin: 0 auto;
+
+section {
     display: flex; 
     flex-direction: row; 
     justify-content: center;
     flex-wrap: wrap;
-    
-}
-
-section {
-    flex-grow: 1;
-    overflow: hidden;
     gap: 30px;
 }
 
-*/ footer */
+div {
+    flex-grow: 1;
+    overflow: hidden;
+     
+    
+
+}
+
+/* footer */
 
 footer {
-    background-color: navy;
+    background-color: darkgrey;
     height: 100px
 }
