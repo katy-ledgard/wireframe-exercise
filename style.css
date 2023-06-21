@@ -10,6 +10,7 @@ header {
     align-items: baseline;
     display: flex;
     flex-direction: row;
+    background-color: darkgrey;
 
 }
 
